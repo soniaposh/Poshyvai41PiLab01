@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Poshyvai41PiLab01</string>
+    <string name="button_name">Find Description</string>
+    <string-array name="professions">
+        <item>QA analyst</item>
+        <item>Network administrator</item>
+        <item>Systems developer</item>
+        <item>UX designer</item>
+        <item>Web developer</item>
+    </string-array>
+    <string-array name="job_descriptions">
+        <item>Quality assurance (QA) analysts are responsible for the final step in the development of a game, website or any software product before it is released to the public.</item>
+        <item>Network administrators connect different devices together to form fast and efficient networks.</item>
+        <item>Systems developers build the behind-the-scenes software for a wide range of business and organisational functions.</item>
+        <item>UX designers turn applications into something that people like and want to use.</item>
+        <item>Web developers build, and make improvements to, websites and web applications.</item>
+    </string-array>
+</resources>
